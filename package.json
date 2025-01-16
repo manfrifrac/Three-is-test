@@ -1,0 +1,15 @@
+{
+    "name": "threejs-test-app",
+    "version": "1.0.0",
+    "description": "A simple Three.js app",
+    "main": "main.js",
+    "scripts": {
+      "start": "http-server ."
+    },
+    "dependencies": {
+      "three": "^0.154.0"
+    },
+    "devDependencies": {},
+    "author": "Manfre",
+    "license": "MIT"
+  }
